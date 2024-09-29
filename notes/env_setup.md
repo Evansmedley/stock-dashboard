@@ -21,5 +21,7 @@ $ npm -v
 $ npx create-next-app@latest
 ```
 
+5. Look at generated [README.md](/README.md)) for information on running the application.
+
 **NOTE**
 To just use TS with no react project, it can just be installed using ```npm install typescript --save-dev```.
